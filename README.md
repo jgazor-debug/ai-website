@@ -8,3 +8,4 @@ I used Bootstrap and manual css & js for this website.
 
 Here are the screenshots of my website:
 
+![](https://github.com/jgazor-debug/ai-website/blob/main/assets/img/ss1.png)

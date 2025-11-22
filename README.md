@@ -7,4 +7,4 @@ The website wil start in the home page and it can be easily navigate by the user
 I used Bootstrap and manual css & js for this website.
 
 Here are the screenshots of my website:
-![alt text](https://github.com/[jgazor-debug]/[ai-website]/blob/[assets]/ss1.png?raw=true)
+
